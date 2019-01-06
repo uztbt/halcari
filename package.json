@@ -21,10 +21,13 @@
     "expo": "^31.0.2",
     "react": "16.5.0",
     "react-native": "https://github.com/expo/react-native/archive/sdk-31.0.0.tar.gz",
-    "react-native-elements": "^1.0.0-beta7"
+    "react-native-elements": "^1.0.0-beta7",
+    "react-native-material-dropdown": "^0.11.1",
+    "react-navigation": "^3.0.9"
   },
   "devDependencies": {
     "@types/jest": "^23.3.10",
+    "@types/react-navigation": "^3.0.1",
     "babel-preset-expo": "^5.0.0",
     "chokidar-cli": "^1.2.1",
     "jest": "^23.6.0",
